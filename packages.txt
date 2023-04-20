@@ -1,0 +1,2 @@
+Because I am running a virtual environment, I need to activate it before I can install anything. I do this by running the following command:
+`source bin/activate`
